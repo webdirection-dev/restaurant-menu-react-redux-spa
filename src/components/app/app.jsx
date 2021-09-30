@@ -14,7 +14,7 @@ const App = () => {
             <AppHeader total={50}/>
             <Switch>
                 <Route path='/' exact component={MainPage}/>
-                <Route path='/restaurant-menu-react-redux-app' exact component={MainPage}/>
+                <Route path='/restaurant-menu-react-redux-spa' exact component={MainPage}/>
                 <Route path='/card' exact component={CartPage}/>
 
                 <Route path='/1' exact component={CesarSalad}/>
