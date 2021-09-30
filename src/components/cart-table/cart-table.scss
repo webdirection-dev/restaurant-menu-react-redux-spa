@@ -54,11 +54,26 @@
         background-color: black;
     }
     &__quantity {
-        width: 40px;
         padding-left: 10px;
         color: green;
     }
     &__counter {
         color: darkred;
+        padding: 0 15px;
+    }
+    &__btn-order {
+        display: block;
+        color: white;
+        background-color: #14a114;
+        font-size: 16px;
+        text-align: center;
+        padding: 10px;
+        margin: 50px auto;
+        border-radius: 5px;
+        border: 0;
+        text-decoration: none;
+        cursor: pointer;
+        user-select: none;
+        outline: 0;
     }
 }

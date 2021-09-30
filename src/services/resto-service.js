@@ -1,4 +1,11 @@
+import DataDB from "../components/json/db";
+
 export default class RestoService {
+
+    getDataDB() {
+        return DataDB();
+    }
+
     _apiBase = 'http://localhost:3000';
 
     async getResource(url) {
