@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/restaurant-menu-react-redux-sla/static/css/main.da02bcb4.chunk.css",
+    "main.js": "/restaurant-menu-react-redux-sla/static/js/main.5fda6d5a.chunk.js",
+    "main.js.map": "/restaurant-menu-react-redux-sla/static/js/main.5fda6d5a.chunk.js.map",
+    "runtime-main.js": "/restaurant-menu-react-redux-sla/static/js/runtime-main.6a6614a3.js",
+    "runtime-main.js.map": "/restaurant-menu-react-redux-sla/static/js/runtime-main.6a6614a3.js.map",
+    "static/js/2.18577cd9.chunk.js": "/restaurant-menu-react-redux-sla/static/js/2.18577cd9.chunk.js",
+    "static/js/2.18577cd9.chunk.js.map": "/restaurant-menu-react-redux-sla/static/js/2.18577cd9.chunk.js.map",
+    "index.html": "/restaurant-menu-react-redux-sla/index.html",
+    "static/css/main.da02bcb4.chunk.css.map": "/restaurant-menu-react-redux-sla/static/css/main.da02bcb4.chunk.css.map",
+    "static/js/2.18577cd9.chunk.js.LICENSE.txt": "/restaurant-menu-react-redux-sla/static/js/2.18577cd9.chunk.js.LICENSE.txt",
+    "static/media/404.1062f5e4.png": "/restaurant-menu-react-redux-sla/static/media/404.1062f5e4.png",
+    "static/media/food-bg.fd26761e.jpg": "/restaurant-menu-react-redux-sla/static/media/food-bg.fd26761e.jpg",
+    "static/media/menu-list-item.scss": "/restaurant-menu-react-redux-sla/static/media/seedling-solid.47d91409.svg",
+    "static/media/shopping-cart-solid.f0d47d21.svg": "/restaurant-menu-react-redux-sla/static/media/shopping-cart-solid.f0d47d21.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a6614a3.js",
+    "static/js/2.18577cd9.chunk.js",
+    "static/css/main.da02bcb4.chunk.css",
+    "static/js/main.5fda6d5a.chunk.js"
+  ]
+}
