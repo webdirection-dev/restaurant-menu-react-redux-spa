@@ -16,7 +16,9 @@ class MenuList extends Component {
 
         // Для работы с локальным объектом
         const localDB = RestoService.getDataDB();
-        menuLoaded(localDB.menu)
+
+        if (!localDB.menu) menuError();
+        else menuLoaded(localDB.menu)
 
         // Для работы с сервером
         // RestoService.getMenuItems()
